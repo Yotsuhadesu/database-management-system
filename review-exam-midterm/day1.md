@@ -1,4 +1,4 @@
-# Topics
+# Session 1
 ## Data vs Information vs Knowledge
 - Data - raw facts
 - Information - data with context
@@ -26,3 +26,35 @@
 ## DBMS Products
 1. Commercial (paid)
 2. Open Source (free)
+# Session 2
+## File-Based System vs Database System Approach
+- File-Based System - each department keeps its own files and manages its own data
+- Database System Approach - files are stored in a centralized, shared database
+## Database Approach
+- Advantages:
+    - Consistemcy
+    - Control over Reduandancy
+    - Integrity
+    - Sharing
+    - Centralized control
+    - Greater Security
+    - Multiple Views
+    - Increased concurrrency
+- Disadvantages:
+    - Larger Cost
+    - Greater Complexity
+    - Cost
+    - Bigger Impact of Failure
+    - Performance
+## SDLC
+- Software Development Life Cycle - a blueprint for developing software
+- Steps:
+    1. Planning
+    2. Defining
+    3. Designing
+    4. Building
+    5. Testing
+    6. Deployment
+    7. Maintenance
+## Business Rule
+- Business Rule - a short, precise, and clear statement that defines or limits a policy, procedure, or principle in an organization
