@@ -51,3 +51,25 @@ Simple/Single-valued | Ellipse
 Composite | Ellipse with branching ellipses
 Multivalued | Double Ellipse
 Derived | Dotted Ellipse    
+# Session 2
+## Relationships
+- Association between two or more entities
+- Symbol: Diamond
+- can get its own attribute
+## Degree
+- The number of entities in a relationship
+    - Unary
+    - Binary
+    - Ternary
+## Cardinality
+- 1:1
+- 1:N
+- M:N 
+    - can't be expressed on relational tables
+    - add an associative entity
+## Participation
+- mandatory
+- optional
+## Identifying and Recursive Relationship
+- Identifying Relationship - relationship between strong and weak entity
+- Recursive Relationship - same entity takes part more than once
